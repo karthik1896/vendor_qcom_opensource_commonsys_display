@@ -5,7 +5,6 @@ PRODUCT_PACKAGES += libdisplayconfig \
                     libgralloc.qti \
                     libgralloc.system.qti \
                     libdrm \
-                    libsmomo.qti \
                     liblayerext.qti \
                     libsmomoconfig.qti \
                     libcomposerextn.qti \
